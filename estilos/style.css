@@ -46,7 +46,7 @@ section#login > div#imagem {
     display: block;
     background: #5f2c82 url(../imagens/pexels.jpg) no-repeat;
     background-size: cover;
-    background-position: center center;
+    background-position: center bottom;
     height: 200px;
 }
 
